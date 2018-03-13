@@ -40,3 +40,15 @@ Below are two questions to think about:
 
 It is worth to think about **an effectual way, to start with close analysis of the available resources and to infer from it the possible objectives and to iterate the process regularly**.
 
+An **Innovative Process** consisted three points: **Innovation Type, Performance, **and **Process**. First type of innovation, which dimensions in technology and architecture of products, of business models, are new in this innovation? Then performance, expecially what are the dimensions to evaluate the innovation value what are the characteristic times of this innovation? And finally, process: Who works on what for the innovation? With whom or which entity can you build a relationship for your startup? What decision goes with what validation?
+
+As Patrick Pélata said: yesterday, a brand was managing its own reputation by spending great amounts of money in advertisment, promotion and various medias, and today, with the power of social medias, this can be done by the costumers themselves.
+
+## Creating an Innovative Company With Several Associates: What Are The Selection Criteria?
+
+All of all above is about you can not do it by yourself. Know your own ability and analyze anything that you can not do by yourself.
+
+## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
+
+
+
