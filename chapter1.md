@@ -97,5 +97,7 @@ What is recipe of the ideal team? We managed to identify a few ingredients:
 
 ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
 
-**Market and indsutry are different**. For example, there is a laser industry, but there are no laser market, instea there are existed welding market, a cutting market, and market for the organisation of audoturiums. These three markets represent the use of lasers. So, from one technique or even a patent, a technical knowledge, there is only one industry. So, if you are a marketer on laser, it is not entirely true that you work on laser market, but on laser indusry.
+**Market and indsutry are different**. For example, there is a laser industry, but there are no laser market, instea there are existed welding market, a cutting market, and market for the organisation of audoturiums. These three markets represent the use of lasers. So, from one technique or even a patent, a technical knowledge, there is only one industry. So, if you are a marketer on laser, it is not entirely true that you work on laser market, but on laser industry.
+
+
 
