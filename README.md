@@ -1,3 +1,4 @@
-# My Awesome Book
+# Creating and Developing a Tech Startup Notes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is my personal notes from course "Creating and Developing a Tech Startup" offered by École Polytechnique & HEC Paris.
+
