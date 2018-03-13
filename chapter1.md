@@ -54,7 +54,8 @@ In entrepreneurship, people often go faster alone, but they go much further when
 2. Perpective on money.  
    When you will need to pay for your childresn's studies, your partner will want to invest in the company. **For some people money is an aim, for others it's an indicator**.
 
-3. ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
+3. 
+4. ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
 
 
 
