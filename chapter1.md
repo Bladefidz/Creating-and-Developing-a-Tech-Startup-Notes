@@ -99,5 +99,5 @@ What is recipe of the ideal team? We managed to identify a few ingredients:
 
 **Market and indsutry are different**. For example, there is a laser industry, but there are no laser market, instea there are existed welding market, a cutting market, and market for the organisation of audoturiums. These three markets represent the use of lasers. So, from one technique or even a patent, a technical knowledge, there is only one industry. So, if you are a marketer on laser, it is not entirely true that you work on laser market, but on laser industry.
 
-
+**Market**, by definition of economics is where the **price balances supply and demand**. It is indeed certainly true, but** it is not directly useful for a person who develops a company** unless it is a very big company.
 
