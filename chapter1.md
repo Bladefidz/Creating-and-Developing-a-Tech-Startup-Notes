@@ -17,7 +17,5 @@ One example of successful in France is DAMAE Medical which offered a medical ima
 2. Product testing in collaborative research.
 3. Marketing
 
-
-
-
+For these three phases, we need to work on several pillars of development of the company: **market focus**, **implementation to access it**, **development of the economic model**, or **finance**. A good entrepreneur is able to back and forth between these pillars. He has to work on all the pillars in parallel.
 
