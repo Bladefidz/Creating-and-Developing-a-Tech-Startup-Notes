@@ -49,7 +49,7 @@ As Patrick Pélata said: yesterday, a brand was managing its own reputation by s
 In entrepreneurship, people often go faster alone, but they go much further when they unite. Innovative entrepreneurship products are most of the time concerned by human issued. Here are a few ingredients:
 
 1. Complementary skills and psychological profiles.  
-   Complementarity is a key in enrepreneurship, **you need to clearly know what your skill are, so you add more value to them**. You must also notice areas where you dont feel very comfortable. You will need innovation and agility capacities, an open mind, the capacity to create links, creativity, audacity. You are also allowed to make mistakes. Choose people who will be able to progress by iteration who will go further than already made solution, who have already been succesful in the past.
+   Complementarity is a key in enrepreneurship, **you need to clearly know what your skill are, so you add more value to them**. You must also notice areas where you dont feel very comfortable. You will need innovation and agility capacities, an open mind, the capacity to create links, creativity, audacity. You are also allowed to make mistakes. **Choose people who will be able to progress by iteration who will go further** than already made solution, who have already been succesful in the past.
 
 2. Perpective on money.  
    When you will need to pay for your childresn's studies, your partner will want to invest in the company. **For some people money is an aim, for others it's an indicator**.
