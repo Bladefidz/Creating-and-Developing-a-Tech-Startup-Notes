@@ -109,5 +109,5 @@ For example, the desire for clean heair is a hygenic desire, but the desire to b
 
 In the marketting, knowing opportunity such as consument's desire is not enough. One thing which worth to think about is **subtitution**. For an example above, what is might be the first subtitute? Well, it's might not another shampoo like yours, but it is "I do not wash my hair". This is what we call a **shadow competitor**. So you must decide between a market with many shadow competitors.
 
-
+If your invention is an innovative you have chances to create the market and to open it up. Surprising example can be used. Let's sat I am a car salesman. My subtitue, appart from other car salesmen are holiday commercials. Why? Because we are competitors in the family budget, people have the choice between buying a new car and having cheap holidays, or, on the contrary, having expensive holidays and keeping the old car and just changing the break pads.
 
