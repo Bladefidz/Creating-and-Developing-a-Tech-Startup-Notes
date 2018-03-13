@@ -64,7 +64,36 @@ In entrepreneurship, people often go faster alone, but they go much further when
    According to what you aim and how fast you want things to happen, you will not have the same needs. **Make a list of your key indicators to success for the next years**. So, you will get precious information on the vision and ambition that each has and on your conformity
 
 6. Collective vision and goals  
-   To succeed, you need a clear and shared vision. WIthout aim of performance there will be no successful team.
+   **To succeed, you need a clear and shared vision**. WIthout aim of performance there will be no successful team. We often spend too much time learning how to work instead of taking-up challanges together, which is the best way to get to know each other.
+
+7. Prepare for the worst  
+   **It is much easier to reason on a upstream disastrous scenario than in a real crisis where your personal life is in danger**. Thinking of your fears is the best way to find solutions to them.
+
+8. Conflict management  
+   Face chaos can get you more performance as it forces you to cast doubt on your operational modes and to modify what goes wrong. The risk may be even more important in teams that you already know well where tacit rule are not enough. Teams grow more in the face of adversity than in success. If the crisi is insurmontable, you will need to decide who is more likely to preserve the stakeholders. Remember that the one who has power in relationship is the one who ready to give up something.
+
+What is recipe of the ideal team? We managed to identify a few ingredients:
+
+1. A limited number of individuals
+   Complementary, technical and functional skills are of course needed, but also **social skills, personality traits and personal qualities**.
+
+2. Commitment in the project
+   This does not mean you must work yourself to death. **Know your limits and resources yourself, this is absolutely essential**.
+
+3. Passion  
+   It is easier to be fully engaged when youa are passioante about what your do, anout the project of the company you work on or about the people with whom you work. **Passion is the fuel to tenacity**.
+
+4. Common goals  
+   A clear and shared vision will give meaning to everyone's action even \(and above all\) when they are difficult or thankless.
+
+5. Collective approach  
+   A vision is not enough, you need strategy and organization to perform. A succesfull team makes it own rules, respects them and makes them be respected.
+
+6. Solidarity  
+   You have to worry about the other's success and feel co-responsible in case of success or failure.
+
+7. Pleasure and humor  
+   You dont necessarily need to become best friends, but pleasure avoids other displeasures and is the motivation, so you should not do without it and create opportunities for it. Celebrate success, thank others, have fun, make a team feeling proud, ... these are big morale booster for everyone. Don't forget that feelings are contagious, so smile. Communication, again, and again. Whatever you do; communicate. Event when you wuthdraw into silences.
 
 ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
 
