@@ -23,7 +23,22 @@ Advice from Hello everyone Anaïs Barut \(president of DAMAE Medical company\): 
 
 ## Innovative Design, a Mix of Methods and Practices Stemming from "Science of The Artificial"
 
-The entrepreneurship is above all a social phenomeon. SOcial interactions are vital in all technological fields. Your projects will go further than the marketing of innovative offers. The entrepreneur pertubs the ecosystem around him but he also renews it. **The aim should be based on the equality of chances more than on the equality of fortunes**. 
+The entrepreneurship is above all a social phenomeon. Social interactions are vital in all technological fields. Your projects will go further than the marketing of innovative offers. The entrepreneur pertubs the ecosystem around him but he also renews it. **The aim should be based on the equality of chances more than on the equality of fortunes**.
+
+To understand a terms **equality of chances**, lets take Toyota as an example. This example does not means separate from the ambition of entrepreneurship, **but a big corporation like Toyota need to identify new opportunities in an entrepreunarial world**. Here is a quotation from _Koichi Shimizu _about the **R&D** Toyota from 1990s:
+
+> Engineers working on vehicle projects did not think that the advanced research and development group offered useful technologies for their needs. Furthermore, research and development engineers were furstated because the technologies they were creating were useless for vehicle projects.
+
+This organisation would have forced Toyota to be limited to incremental innovators. And yet they innovate even radically with projects such as hybrid vehivle or their complete revision of the automotive architecture which deals with compactness.
+
+Let now, move to analytical frame of works in several industrial sectors and of interaction with big companies and startups. **First and foremost, innovation is not a balistic trajectory, but rather an innovative process**. Inovating is exploring potentiallties, contextualising them in fields, developing them for markets, and deploying them while thinking about concepts, markets or business model. So, nothing really linear or sequential.
+
+Below are two questions to think about:
+
+1. What are relevant markets to test and deploy an innovation?
+2. Which team should you lead to this adventure? You may know that some places in the world are more likely to begin an innovation, as well as some economical zones have specific qualities. For example: **Kaizen** or **Kakushi** in Japan or **Jugaad** in India and so on.
+
+
 
 
 
