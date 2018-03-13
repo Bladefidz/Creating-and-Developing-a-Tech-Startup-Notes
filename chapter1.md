@@ -74,10 +74,10 @@ In entrepreneurship, people often go faster alone, but they go much further when
 
 What is recipe of the ideal team? We managed to identify a few ingredients:
 
-1. A limited number of individuals
+1. A limited number of individuals  
    Complementary, technical and functional skills are of course needed, but also **social skills, personality traits and personal qualities**.
 
-2. Commitment in the project
+2. Commitment in the project  
    This does not mean you must work yourself to death. **Know your limits and resources yourself, this is absolutely essential**.
 
 3. Passion  
@@ -97,5 +97,5 @@ What is recipe of the ideal team? We managed to identify a few ingredients:
 
 ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
 
-
+**Market and indsutry are different**. For example, there is a laser industry, but there are no laser market, instea there are existed welding market, a cutting market, and market for the organisation of audoturiums. These three markets represent the use of lasers. So, from one technique or even a patent, a technical knowledge, there is only one industry. So, if you are a marketer on laser, it is not entirely true that you work on laser's market, but on laser indusry.
 
