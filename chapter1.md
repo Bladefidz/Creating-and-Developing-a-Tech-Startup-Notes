@@ -101,3 +101,13 @@ What is recipe of the ideal team? We managed to identify a few ingredients:
 
 **Market**, by definition of economics is where the **price balances supply and demand**. It is indeed certainly true, but** it is not directly useful for a person who develops a company** unless it is a very big company.
 
+**Derek Abell's analysis** is good want to follow:
+
+> There is a certain amount of uses, functions, even desires which are satisfied by offer.
+
+For example, the desire for clean heair is a hygenic desire, but the desire to be beautiful which probably requires shampoo as well is not of the same kind. A good shampoo will accomplish both. A good shampoo will accomplish both. A shampoo which only  accomplishes the first idea - to clean hair - doesn't have a great value, is not expensive, it is classical chemistry. A shampoo that makes you beautiful is almost from the myths of Faust and is worth a fortune.
+
+In the marketting, knowing opportunity such as consument's desire is not enough. One thing which worth to think about is **subtitution**. For an example above, what is might be the first subtitute? Well, it's might not another shampoo like yours, but it is "I do not wash my hair". This is what we call a **shadow competitor**. So you must decide between a market with many shadow competitors.
+
+
+
