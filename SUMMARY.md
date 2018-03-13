@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [From laboratory invention to formulation of an innovative concept](chapter1.md)
+
