@@ -25,7 +25,7 @@ Advice from Hello everyone Anaïs Barut \(president of DAMAE Medical company\): 
 
 The entrepreneurship is above all a social phenomeon. Social interactions are vital in all technological fields. Your projects will go further than the marketing of innovative offers. The entrepreneur pertubs the ecosystem around him but he also renews it. **The aim should be based on the equality of chances more than on the equality of fortunes**.
 
-To understand a terms **equality of chances**, lets take Toyota as an example. This example does not means separate from the ambition of entrepreneurship, **but a big corporation like Toyota need to identify new opportunities in an entrepreunarial world**. Here is a quotation from _Koichi Shimizu _about the **R&D** Toyota from 1990s:
+To understand a terms **equality of chances**, lets take Toyota as an example. This example does not means separate from the ambition of entrepreneurship, **but a big corporation like Toyota need to identify new opportunities in an entrepreunarial world**. Here is a quotation from \_Koichi Shimizu \_about the **R&D** Toyota from 1990s:
 
 > Engineers working on vehicle projects did not think that the advanced research and development group offered useful technologies for their needs. Furthermore, research and development engineers were furstated because the technologies they were creating were useless for vehicle projects.
 
@@ -38,7 +38,5 @@ Below are two questions to think about:
 1. What are relevant markets to test and deploy an innovation?
 2. Which team should you lead to this adventure? You may know that some places in the world are more likely to begin an innovation, as well as some economical zones have specific qualities. For example: **Kaizen** or **Kakushi** in Japan or **Jugaad** in India and so on.
 
-
-
-
+It is worth to think about **an effectual way, to start with close analysis of the available resources and to infer from it the possible objectives and to iterate the process regularly**.
 
