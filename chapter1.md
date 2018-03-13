@@ -57,8 +57,16 @@ In entrepreneurship, people often go faster alone, but they go much further when
 3. Perpective on money.  
    When you will need to pay for your childresn's studies, your partner will want to invest in the company. **For some people money is an aim, for others it's an indicator**.
 
-4. 
-5. ## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
+4. Some things can be predictable  
+   You know hoe old your children will be in five years, ten years, and wjat they need from you. You also know that if your associate is 50 today, you will need to anticipate a transmission.
+
+5. Perspective on success  
+   According to what you aim and how fast you want things to happen, you will not have the same needs. **Make a list of your key indicators to success for the next years**. So, you will get precious information on the vision and ambition that each has and on your conformity
+
+6. Collective vision and goals  
+   To succeed, you need a clear and shared vision. WIthout aim of performance there will be no successful team.
+
+## Methods and Recommendations for Defining and Assesing an Opportunity to Create a Tech Company
 
 
 
