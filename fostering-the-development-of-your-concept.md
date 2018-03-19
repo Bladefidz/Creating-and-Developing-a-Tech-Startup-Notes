@@ -104,7 +104,11 @@ The most of **mistakes** that people make in management don't come from wrong an
 3. Estimate the risk  
    The risks may can not be removed, but can be minimized. Two dimension can be taken into consideration, **Visibility**: _How reliable can change in the environtment be predicted? What is the degree of technological uncertainty? So, do we **see clear enough through space and time**? Can it be easily reoriented by changing the structure?_
 
-It is crucial for the success of the project to closely monitor the evolution of the volume, of the prices and costs. **The growth of a market ususlly follows an S-curve**:![](/assets/s-curve.png)This curve is observed from most of market's history that can be proof by this graph of certains market in the past, our goal is to **accelerate the process**:![](/assets/consumption spreads.gif)
+It is crucial for the success of the project to closely monitor the evolution of the volume, of the prices and costs. **The growth of a market ususlly follows an S-curve**:![](/assets/s-curve.png)
+
+This curve is observed from most of market's history that can be proof by this graph of certains market in the past, our goal is to **accelerate the process**:
+
+![](/assets/consumption spreads.gif)
 
 
 
