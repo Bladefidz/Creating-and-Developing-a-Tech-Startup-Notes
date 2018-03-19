@@ -158,6 +158,22 @@ Management in innovative project has an objective to reduce the uncertainty: **F
 
 ![](/assets/hypothesis-testing.png)
 
+For each hypothesis, these questions are needed:
+
+1. What is the origin of the incertitude?
+2. What is the need for knowledge?
+3. According to which method of acquisition?
+4. What support is needed to acquire knowledge?
+5. How will the knowledge, once acquired, be integrated into the project?
+
+Book **The Lean Startup** by Eris Reis intoduced the interative learning method:
+
+1. Design an experiment.
+2. Measure the gaps.
+3. Learn and rephrase the hypothesis or move on the next one.
+
+
+
 Summary:
 
 1. **Innovative Process** is process of discovery and exploration, it is a learning process.
