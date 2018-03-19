@@ -139,11 +139,11 @@ In the case of an innovative project, to manage project is simply to design it a
 2. Ressources  
    After scope already defined, you need any necessary resources to execute these tasks. Also defined who is responsible for which task in PBS.
 
-3. Constrains
+3. Constrains  
    In the case of an innovative project, it is alsi hard to identify components, tasks and ressources from the start of the project as the project will consist in progressively identifying them.
 
-4. Risks
-   To deal with unknown, we need **risk management**.
+4. Risks  
+   To deal with unknown, we need **risk management**. In the case of an innovative project, we are facing unpredictable and unkown events. It is very hard to anticipate the occurence and the impact.
 
 
 
