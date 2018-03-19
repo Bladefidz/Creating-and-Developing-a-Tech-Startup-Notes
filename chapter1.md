@@ -172,13 +172,13 @@ Book **The Lean Startup** by Eris Reis intoduced the interative learning method:
 2. Measure the gaps.
 3. Learn and rephrase the hypothesis or move on the next one.
 
-
-
 Summary:
 
 1. **Innovative Process** is process of discovery and exploration, it is a learning process.
 2. An innovative project always intended to realize the idea with very big uncertainty. So, the traditional project management may not worked.
 3. Structure approach to manage the project.
+
+# The fundamentals of the company’s strategy
 
 
 
