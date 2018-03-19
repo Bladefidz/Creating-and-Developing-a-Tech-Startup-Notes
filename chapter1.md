@@ -154,6 +154,10 @@ Book **Managing The Unkown** by Cristopher Loch introduce two methods to manage 
 
 **In the case of creating innovative company, the second method will obviously be the adopted one**.
 
+Management in innovative project has an objective to reduce the uncertainty: **Formulating hypotheses**; **Start actions to confirm them**; **transform tested hypotheses into knowledge**. Book **Discovery-Driven Growth** by McGrath, given a method in the formulating and hypotheses testing as discovery process in finding valid knowledge by making a table of hypotheses:
+
+![](/assets/hypothesis-testing.png)
+
 Summary:
 
 1. **Innovative Process** is process of discovery and exploration, it is a learning process.
