@@ -119,26 +119,31 @@ To conclude, if you want to  diffenrenciate yourself and look credible, you need
 
 A **project** is a combination of human and non-human, material and immaterial resources used for a temporary organisation with a specific goal. So, there are three definition in this definition:
 
-1. **Temporary dimension**
+1. **Temporary dimension**  
    For example, _time_. By convention, members of an innovating entrepreneurship can fix an event or a period to mark the end of a project, launch on the market, validation of the technology if it is a big technological change, the first introductions, etc.
 
-2. **Specific goal**
+2. **Specific goal**  
    An innovative project is characterised by a big uncertainty on technology, its use, the features which have value for the users, the buyers, what value will they give?
 
-3. **Resources**.
+3. **Resources**.  
    In project management, there are managing tools for stakeholders. _Primary stakeholders_ whom contributing directly \(example: Project manager\) or inderectly \(example: the future users, buyes, the purchasing advisors, distributors, financiers, incubators.\) to the project.
 
 #### The principles and the managing tools of the project
 
 In the case of an innovative project, to manage project is simply to design it and execute it. **Design** requires the identification of:
 
-1. Scope
+1. Scope  
    **Product Breakdown Stricture \(PBS\)** in identifying all the components of a product, result of a project. Then you must identify all the tasks required for the different components.  
    **Work Breakdown Structure \(WBS\)** in organize the tasks in hierarchy \(mother tasks and daughter tasks\) which is the heart of the project design.
 
-2. Ressources
+2. Ressources  
+   After scope already defined, you need any necessary resources to execute these tasks. Also defined who is responsible for which task in PBS.
+
 3. Constrains
-4. Risks:
+   In the case of an innovative project, it is alsi hard to identify components, tasks and ressources from the start of the project as the project will consist in progressively identifying them.
+
+4. Risks
+   To deal with unknown, we need **risk management**.
 
 
 
