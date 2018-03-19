@@ -99,8 +99,12 @@ The most of **mistakes** that people make in management don't come from wrong an
    Decide to enter a particular industry on specific market to keep being **small player** or have **marginal position**.
 
 2. Build its strengths  
-   Identify the key strengths of your project, the characteristic that make it a competitive offer.
+   Identify the key strengths of your project, the characteristic that make it a competitive offer. Look for the points of differentiation shich will make the difference with competitors. Invest on these key strenghts to increase the difference. Identify the project's weakness.
 
-3. 
+3. Estimate the risk  
+   The risks may can not be removed, but can be minimized. Two dimension can be taken into consideration, **Visibility**: _How reliable can change in the environtment be predicted? What is the degree of technological uncertainty? So, do we **see clear enough through space and time**? Can it be easily reoriented by changing the structure?_
+
+It is crucial for the success of the project to closely monitor the evolution of the volume, of the prices and costs. **The growth of a market ususlly follows an S-curve**:![](/assets/s-curve.png)This curve is observed from most of market's history that can be proof by this graph of certains market in the past, our goal is to **accelerate the process**:![](/assets/consumption spreads.gif)
+
 
 
