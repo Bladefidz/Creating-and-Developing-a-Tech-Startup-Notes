@@ -84,17 +84,23 @@ Summary:
 
 The most of **mistakes** that people make in management don't come from wrong answer to clever questions, but from **right answer to wrong questions**. There are **three fundamental pillars** for your strategic project which are like a tripod on which your project can be stable:
 
-1. Want-to-do
+1. Want-to-do  
    Express the aspirations of the management team. Everyone has their fundamental aspiration, own idea to the project \(tend to be vague\), and maybe does not want to controlled by someone \(for example: Finance person\).  To avoid conflicts, the best thing to do is keep working on design.
 
-2. Know-how
+2. Know-how  
    This is about technological projects, scienctific and technical skills are the essence of the project. However, a fundamental question will need to be quickly asked: _Will the pictured configuration be implemented without any additional competence missing at the beginning_? Most of time these are business competences and sometimes financial competences
 
-3. Can-do
+3. Can-do  
    It refers to available means and ressources. _How much time do we have to complete this project? Who in the founding team will have time to develop the offer, seek funds, contact the first costumers? What should prevail \(should be successful\)? The available means or the conducted strategy? Should we adapt the strategy according to the mean or, on the contrary, determine strategy and then define the mobilised means?_
 
 **Four fundamental principles**:
 
-1. 
+1. Aim for victory  
+   Decide to enter a particular industry on specific market to keep being **small player** or have **marginal position**.
+
+2. Build its strengths  
+   Identify the key strengths of your project, the characteristic that make it a competitive offer.
+
+3. 
 
 
