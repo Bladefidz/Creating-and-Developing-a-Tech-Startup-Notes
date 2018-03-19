@@ -145,5 +145,19 @@ In the case of an innovative project, to manage project is simply to design it a
 4. Risks  
    To deal with unknown, we need **risk management**. In the case of an innovative project, we are facing unpredictable and unkown events. It is very hard to anticipate the occurence and the impact.
 
+Book **Managing The Unkown** by Cristopher Loch introduce two methods to manage the situation of incertitude and unkown:
+
+1. Lead several approaches in paraller in several projects and the best will win.
+2. Try and make mistake, so a progressive approach of readjustment, a learning process. At first, there are so many decision to make because the uncertainties. Our goal is to minimize decision options and maximize learning process as the function of time. This method can be modeled as linear model in the image below.
+
+![](/assets/learning-curve.png)
+
+**In the case of creating innovative company, the second method will obviously be the adopted one**.
+
+Summary:
+
+1. **Innovative Process** is process of discovery and exploration, it is a learning process.
+2. An innovative project always intended to realize the idea with very big uncertainty. So, the traditional project management may not worked.
+
 
 
