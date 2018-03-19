@@ -1,4 +1,4 @@
-# From laboratory invention to formulation of an innovative concept
+## From laboratory invention to formulation of an innovative concept
 
 This chapter consisted following key points:
 
@@ -9,7 +9,7 @@ This chapter consisted following key points:
 
 **Summary**: Before any technical or financial consideration, the creation of a technology company is above all a human advanture that requires each associate to make personal choice. **Besides your initial intuition that a new cutting-edge technology offer is marketable**, we want to familiarize you with several development methods and practices. Mostly you will be asked to offer what the potential applications of your offer will be and the different ways to make it stand out from the existing offers.
 
-# From laboratory research to the decision to create an innovative company: the experience of a researcher-entrepreneur
+## From laboratory research to the decision to create an innovative company: the experience of a researcher-entrepreneur
 
 One example of successful in France is DAMAE Medical which offered a medical imaging technology to diagnose skin's patients before doctor decide to process any treatments. The development of DAMAE Medical will depend on the maturity of the technology. There are three main phases:
 
@@ -114,19 +114,6 @@ If your invention is an innovative you have chances to create the market and to 
 **look at the value of the costumer's point of view and don't convince yourself that he/she will find the value exceptional**. **If you are a small company with an exceptional invention, such as a software, your value is  not a problem, the problem is the possibility that you will not exist more than two years and that the company working with you will be in midstrem and you won't be able to follow its development as you wouldn't exist anymore**. Maybe a less technological company, less efficient but more perennial, would be better. So take a look at the possible risks for your costumer and try to reassure him. Be sure that you work at the same rythm as your costumer, canvass at the right time, find the moment when his need is important, don't lose your time as many entrepreneurs do while you wish to have more costumers in very big companies of CAC 40 who will accept to receive you because they like what you do and say but will change the meeting into a subliminal or implicit training for their teams. You will explain what you do but you won't necessarily get a contract.
 
 To conclude, if you want to  diffenrenciate yourself and look credible, you need three rules. The first one is to be comprehensible,  it must be significant for the buyer, it must create something good for him/her; either less risks or more value, or the right time. So it must be significant. It must have the possibility to gain value from the company on its value market, so check how the costumer valorises. And finally, it must be  opposable to competition, it must defend against competition, so that it brings something difficult to imitate and it can be the position of your own brand
-
-# The key steps to bringing an innovative project to fruition
-
-A **project** is a combination of human and non-human, material and immaterial resources used for a temporary organisation with a specific goal. So, there are three definition in this definition:
-
-1. **Temporary dimension**  
-   For example, _time_. By convention, members of an innovating entrepreneurship can fix an event or a period to mark the end of a project, launch on the market, validation of the technology if it is a big technological change, the first introductions, etc.
-
-2. **Specific goal**  
-   An innovative project is characterised by a big uncertainty on technology, its use, the features which have value for the users, the buyers, what value will they give?
-
-3. **Resources**.  
-   In project management, there are managing tools for stakeholders. _Primary stakeholders_ whom contributing directly \(example: Project manager\) or inderectly \(example: the future users, buyes, the purchasing advisors, distributors, financiers, incubators.\) to the project.
 
 #### 
 
