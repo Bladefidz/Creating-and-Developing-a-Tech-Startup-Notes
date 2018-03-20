@@ -84,13 +84,13 @@ Summary:
 
 The most of **mistakes** that people make in management don't come from wrong answer to clever questions, but from **right answer to wrong questions**. There are **three fundamental pillars** for your strategic project which are like a tripod on which your project can be stable:
 
-1. Want-to-do  
+1. Want-to-do \(aspiration of the management team\)  
    Express the aspirations of the management team. Everyone has their fundamental aspiration, own idea to the project \(tend to be vague\), and maybe does not want to controlled by someone \(for example: Finance person\).  To avoid conflicts, the best thing to do is keep working on design.
 
-2. Know-how  
+2. Know-how \(competence of the team\)  
    This is about technological projects, scienctific and technical skills are the essence of the project. However, a fundamental question will need to be quickly asked: _Will the pictured configuration be implemented without any additional competence missing at the beginning_? Most of time these are business competences and sometimes financial competences
 
-3. Can-do  
+3. Can-do \(time, human, and financial resources\)  
    It refers to available means and ressources. _How much time do we have to complete this project? Who in the founding team will have time to develop the offer, seek funds, contact the first costumers? What should prevail \(should be successful\)? The available means or the conducted strategy? Should we adapt the strategy according to the mean or, on the contrary, determine strategy and then define the mobilised means?_
 
 **Four fundamental principles**:
@@ -166,6 +166,4 @@ A project leader must develop two types of skills to correctly use the industria
 By patenting inovative products or ideas, it does not means we can get a ticket for luxuary free vacation \(like Bill Gate with Microsoft Windows\). Today, the best protection stays speed. Speed of your market deployment and speed of the regeneration of your products. If you don't go faster to take over the space, your market, sooner or later competitors will do it instead of you. Industrial property will, at best, be used to slow down a little the bench of competitors.
 
 For a start-up, industrial property is an important issue. On one hand, because it is always its only asset, and on another, because it can not relatively afford much for patent registration, trademark, or design right. At the beginning, a project leader should decide the strategy policy of industrial property. For this, it is important to know the landscape of intellectual property, in other words: _What do the main actors of his field of activity do? Who registers patents? What are those patents about? What trademarks are registered by a third party?_
-
-
 
