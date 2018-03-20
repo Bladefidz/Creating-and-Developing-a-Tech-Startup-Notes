@@ -154,7 +154,5 @@ Then a question related to our innovation: _What is the value created by my inno
 
 ## The challenges of the intellectual property to exploit an innovation
 
-
-
-
+The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat.
 
