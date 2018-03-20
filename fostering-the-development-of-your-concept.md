@@ -154,6 +154,8 @@ Then a question related to our innovation: _What is the value created by my inno
 
 ## The challenges of the intellectual property to exploit an innovation
 
+In Europe and in the world, the modern economy is based on the free flow of knowledge, goods and products. The intellectual property is an exception as it is legitimate to reserve a situation which is privileged towards the one who dares to innovate, to create instead of having the work done by someone and take advantage of it. A technical solution to a technical issue, the design right allows you to protect the design of the product, the trademark protects a distinguishing feature, and the copyright protects intellectual works.
+
 The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat. While the **industrial property** is a tool to clarify the relations with third parties, with scientific partners, industrial or business partners. The industrial properties is also often represented as a **weapon** and tool to be able to develop a company project safely, ensuring that everyone's position is repected.
 
 A project leader must develop two types of skills to correctly use the industrial property:
@@ -162,6 +164,8 @@ A project leader must develop two types of skills to correctly use the industria
 2. Determine any potentials that could be protected.
 
 By patenting inovative products or ideas, it does not means we can get a ticket for luxuary free vacation \(like Bill Gate with Microsoft Windows\). Today, the best protection stays speed. Speed of your market deployment and speed of the regeneration of your products. If you don't go faster to take over the space, your market, sooner or later competitors will do it instead of you. Industrial property will, at best, be used to slow down a little the bench of competitors.
+
+For a start-up, industrial property is an important issue. On one hand, because it is always its only asset, and on another, because it can not relatively afford much for patent registration, trademark, or design right. At the beginning, a project leader should decide the strategy policy of industrial property. For this, it is important to know the landscape of intellectual property, in other words: _What do the main actors of his field of activity do? Who registers patents? What are those patents about? What trademarks are registered by a third party?_
 
 
 
