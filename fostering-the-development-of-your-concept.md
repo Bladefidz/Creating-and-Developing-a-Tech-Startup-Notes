@@ -133,24 +133,28 @@ Lets start from the essential question: _What type is my innovation, and, of cou
 
 To answer these question, we can use one of these method:
 
-1. Isolated innovation
+1. Isolated innovation  
    It is an innovation that works alone, for example: BIC \(pen brand\) the ball-pen tip. The advantage is you are the one making decisions, but disadvanatge is that you don't have any particular allies, so you will have to work alone.
 
-2. Systematic innovation
+2. Systematic innovation  
    The innovation is integrated in the system. For example: A USB strick which need USB port and software, so in this case, we need allies.
 
 And we need to choose one of these strategies:
 
-1. Creation
+1. Creation  
    The innovation can create a new market. It is rare and pretty exceptionnal, for example: Renault Escape which created a new segment in the auto industry, Google who created new digital advertising market.
 
-2. Substitution
+2. Substitution  
    This is 98% of the cases in terms of innovation. There are references for the requests, a market, and competitors. We have a reference system and we will be placed according to this reference system.
 
 3. Standard  
    We can choose to introduce new standard or improving existing standard without significantly changing the existing standard. For example: Computer peripheral, communication protocols, etc.
 
 Then a question related to our innovation: _What is the value created by my innovation?_ This is not simpy as financial value, but value create by the costumer. This is what we called **Value in Use Perceived by the Costumer **\(**VUPC**\): It is a compromise between the benefits that the costumer will percieve for your innovation and the sacrifices that the costumer links to your innovation. In the case of creative innovations, we speak in absolute value, and for substitution innovation, in differencial value, benefits, sacrifies perceived by the costumer of my innovation in relation to the reference offer. We can use quantitive analysis to measure VUPC, but it is tend to be subjective.
+
+## The challenges of the intellectual property to exploit an innovation
+
+
 
 
 
