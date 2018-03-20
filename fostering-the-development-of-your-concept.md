@@ -114,5 +114,5 @@ This curve is observed from most of market's history that can be proof by this S
 
 Lets concentrate to first two phases: **Start** \(birth\) and **Growth**. The growth dynamics depend on two phenomena: _Penetration_ \(the number of costumers\) and _consumption_ \(the consumption of each of them\). So, the market can grow either by increasing the number of costumers using the product, or by increasing their consumption. There are two fundamental questions remain: _How fast will the offer enter the market? And, at what level of penetration will growth slow down?_
 
-Another fundamental phenomenom is **substitution**. Generally, a start-up arrives on the existing market with a more or less innovative offer. So, **it will present a substitue of what already exists**.
+Another fundamental phenomenom is **substitution**. Generally, a start-up arrives on the existing market with a more or less innovative offer. So, **it will present a substitue of what already exists**. So, it is important ti understand the obstacles, the reluctances, and to **deeply analyse the decision-making process of the buyers**.
 
