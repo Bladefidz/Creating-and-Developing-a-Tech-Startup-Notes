@@ -154,5 +154,14 @@ Then a question related to our innovation: _What is the value created by my inno
 
 ## The challenges of the intellectual property to exploit an innovation
 
-The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat.
+The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat. While the **industrial property** is a tool to clarify the relations with third parties, with scientific partners, industrial or business partners. The industrial properties is also often represented as a **weapon** and tool to be able to develop a company project safely, ensuring that everyone's position is repected.
+
+A project leader must develop two types of skills to correctly use the industrial property:
+
+1. Able to identify what is potentially protectable.
+2. Determine any potentials that could be protected.
+
+By patenting inovative products or ideas, it does not means we can get a ticket for luxuary free vacation \(like Bill Gate with Microsoft Windows\). Today, the best protection stays speed. Speed of your market deployment and speed of the regeneration of your products. If you don't go faster to take over the space, your market, sooner or later competitors will do it instead of you. Industrial property will, at best, be used to slow down a little the bench of competitors.
+
+
 
