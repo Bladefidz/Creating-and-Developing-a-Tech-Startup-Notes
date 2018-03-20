@@ -72,7 +72,7 @@ Book **The Lean Startup** by Eris Reis intoduced the interative learning method:
 
 1. Design an experiment.
 2. Measure the gaps.
-3. Learn and rephrase the hypothesis or move on the next one.
+3. Learn and rephrase the hypothesis or move on the next one \(repeat to step 1 after filtration\).
 
 Summary:
 
@@ -120,7 +120,7 @@ In the case to analyze and learn consumer behaviors that often not homegeneous, 
 
 ![](/assets/adoption-curve.png)
 
-Two major consequences appears: On a given date, incomes are not realised and the number of costumers \(so sales revenue\) are way below the forecast. To solve this, we will have to be **flexible and market-driven**. To do this, paper your fisrt costumers because they will be demanding, but they will help you develop your offer, they will make you progress. Furthermore, they will be your most loyal defenders, and often your most efficient commercials.
+Two major consequences appears: On a given date, incomes are not realised and the number of costumers \(so sales revenue\) are way below the forecast. To solve this, we will have to be **flexible and market-driven**. To do this, pamper your first costumers because they will be demanding, but they will help you develop your offer, they will make you progress. Furthermore, they will be your most loyal defenders, and often your most efficient commercials.
 
 ## Innovative strategies: The typology and value perceived by the costumer
 
