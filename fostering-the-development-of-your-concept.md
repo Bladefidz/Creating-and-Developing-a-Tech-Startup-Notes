@@ -116,13 +116,19 @@ Lets concentrate to first two phases: **Start** \(birth\) and **Growth**. The gr
 
 Another fundamental phenomenom is **substitution**. Generally, a start-up arrives on the existing market with a more or less innovative offer. So, **it will present a substitue of what already exists**. So, it is important ti understand the obstacles, the reluctances, and to **deeply analyse the decision-making process of the buyers**. Be aware of the psychological obstacles: Habits are hard to change, because the **customer must unlearn a practice that always satisfied him/her and adopt a new technology**.
 
-In the case to analyze and learn consumer behaviors that often not homegeneous, we may choose iterative process that leads certains valid data and try to do forescasting. Let's imagine that the **initial plan**\_** **\_is presented by the **blue curve** and that **reality** is represented by the **red curve**.
+In the case to analyze and learn consumer behaviors that often not homegeneous, we may choose iterative process that leads certains valid data and try to do forescasting. Let's imagine that the **initial plan** is presented by the **blue curve** and that **reality** is represented by the **red curve**.
 
 ![](/assets/adoption-curve.png)
 
 Two major consequences appears: On a given date, incomes are not realised and the number of costumers \(so sales revenue\) are way below the forecast. To solve this, we will have to be **flexible and market-driven**. To do this, pamper your first costumers because they will be demanding, but they will help you develop your offer, they will make you progress. Furthermore, they will be your most loyal defenders, and often your most efficient commercials.
 
 ## Innovative strategies: The typology and value perceived by the costumer
+
+Lets start from the essential question: _What type is my innovation, and, of course, what effects does it have?_
+
+* Product vs process type
+* Incremental vs radical
+* Modular vs architechtural
 
 
 
