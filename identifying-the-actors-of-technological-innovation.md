@@ -20,21 +20,17 @@ Finally, you will hear about the experiences of two management sciences research
 
 ## From science to industry: the purpose of a technology transfer service
 
-aaa
+Almost all laboratories who have contracts with industirals are likely to impact on society at short or middle term. But in a passive world when the workforce is not enough or when the university is very proactive in promoting itself, they welcome researchers who came to see them saying, **I have a good idea**, I would like to protect it, I would like to promote it, what needs to be done?
 
-
+A researcher, nowadays, as well as undertaking his research, and teach, is requested to also finance his laboratory, as well as being involved in various areas. Therefore, their time, in the end, spend on the promoting is weak if we don't give value to it ourselves by explaining how important it is.
 
 ## From PhD to a navigation startup: the case of Sysnav
 
 aaa
 
-
-
 ## Building a team, the key to success for a startup
 
 aaa
-
-
 
 ## The outlook in social sciences research for entrepreneurs
 
