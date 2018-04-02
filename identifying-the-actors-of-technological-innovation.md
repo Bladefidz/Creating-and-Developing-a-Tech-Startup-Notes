@@ -43,6 +43,8 @@ If we take a small look at what exactly used to be the market, today when we tal
 
 ## Building a team, the key to success for a startup
 
+The first principle is **the young innovative companies are structured around a leader who is never alone because entrepreneurship is definitively a team effort**.![](/assets/timmon model.png)
+
 aaa
 
 ## The outlook in social sciences research for entrepreneurs
