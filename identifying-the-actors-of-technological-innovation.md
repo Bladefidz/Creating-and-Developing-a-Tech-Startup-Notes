@@ -1,4 +1,4 @@
-### **Identifying the actors of technological innovation**
+# **Identifying the actors of technological innovation**
 
 * From science to industry: the purpose of a technology transfer service.
 
@@ -12,7 +12,31 @@ Summary : Young technology companies often spring out of research work conducted
 
 You will learn about how a young researcher decided to create his own company to exploit his research work immediately after completing his thesis.
 
- We will return once again to the importance of the team and the manner in which tech startups are structured. We will notably examine the role of the leader and conflict management, commonplace in startups.
+We will return once again to the importance of the team and the manner in which tech startups are structured. We will notably examine the role of the leader and conflict management, commonplace in startups.
 
- Finally, you will hear about the experiences of two management sciences researchers who studied the emergence of several dozen cooperative scientific projects at the Ecole Polytechnique.
+Finally, you will hear about the experiences of two management sciences researchers who studied the emergence of several dozen cooperative scientific projects at the Ecole Polytechnique.
+
+## 
+
+## From science to industry: the purpose of a technology transfer service
+
+aaa
+
+
+
+## From PhD to a navigation startup: the case of Sysnav
+
+aaa
+
+
+
+## Building a team, the key to success for a startup
+
+aaa
+
+## 
+
+## The outlook in social sciences research for entrepreneurs
+
+aaa
 

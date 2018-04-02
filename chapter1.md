@@ -1,4 +1,4 @@
-## From laboratory invention to formulation of an innovative concept
+# From laboratory invention to formulation of an innovative concept
 
 This chapter consisted following key points:
 
