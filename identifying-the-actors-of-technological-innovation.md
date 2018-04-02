@@ -16,7 +16,7 @@ We will return once again to the importance of the team and the manner in which 
 
 Finally, you will hear about the experiences of two management sciences researchers who studied the emergence of several dozen cooperative scientific projects at the Ecole Polytechnique.
 
-## 
+
 
 ## From science to industry: the purpose of a technology transfer service
 
