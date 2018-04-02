@@ -34,7 +34,7 @@ aaa
 
 aaa
 
-## 
+
 
 ## The outlook in social sciences research for entrepreneurs
 
