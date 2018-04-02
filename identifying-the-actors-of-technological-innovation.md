@@ -45,9 +45,19 @@ If we take a small look at what exactly used to be the market, today when we tal
 
 The first principle is **the young innovative companies are structured around a leader who is never alone because entrepreneurship is definitively a team effort**.![](/assets/timmon model.png)
 
-aaa
+The Timmon's model reminds us, that **it is necessary to look for a balance between the size of the team, the size of the resources, and the opportunity which is the support of the innovative company**. In the case of start-up company, it is seasonal reason when a company with small resources could win the market, for example: Netscape win the Browser war through exploit the opportunity of the dominant of Microsoft's Internet Explorer.
+
+There are at least five skills in a startup that Venture Capitalist may consider:
+
+1. Visioner leadership.
+2. Marketting.
+3. Selling.
+4. Technical.
+5. Finance.
+
+But, the main important role is goes to the leader who will always guide the company at any moments. So **what is the role of the leader**? Several _methapors_ can be used: **The conductor** who coordinate sort of do everything; **The military head** who can go through very difficult steps to insipire confidence, reassure and show an example; **The chef** who able to cope with the tension of rush.
 
 ## The outlook in social sciences research for entrepreneurs
 
-aaa
+There are so much research have been done in the modern counties that can be useful to be implemented in the development countries. For example, after modeling need of water in the India, we can develop an innovative low cost water filtration engine rather than big and expensive water filtration engine.
 
