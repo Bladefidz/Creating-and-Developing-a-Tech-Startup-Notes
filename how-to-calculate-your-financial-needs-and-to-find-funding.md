@@ -20,3 +20,7 @@ Each stage has an different priority objective:
 
 
 
+At the beginning of your project, you are going to mainly study the market and the potential uses of your technology. You are the going to reinforce the intellectual property and develop then test the offer corresponding to the priority need you have found. Next you are going to market this offer and improve it gradually to achieve an increasing client. From a financial point of view, this is going to require investments, requirement, rental of office base and various commercial costs, technical and administrative.
+
+
+
