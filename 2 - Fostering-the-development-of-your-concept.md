@@ -3,7 +3,7 @@
 This chapter consisted following key points:
 
 1. The key steps to bringing an innovative project to fruition
-2. The funcamentals of the company's strategy.
+2. The fundamentals of the company's strategy.
 3. Innovative strategies: The typology and value perceived by the costumer.
 4. The challenges of the intellectual property to exploit an innovation.
 
@@ -35,14 +35,14 @@ A **project** is a combination of human and non-human, material and immaterial r
 In the case of an innovative project, to manage project is simply to design it and execute it. **Design** requires the identification of:
 
 1. Scope  
-   **Product Breakdown Stricture \(PBS\)** in identifying all the components of a product, result of a project. Then you must identify all the tasks required for the different components.  
+   **Product Breakdown Structure \(PBS\)** in identifying all the components of a product, result of a project. Then you must identify all the tasks required for the different components.  
    **Work Breakdown Structure \(WBS\)** in organize the tasks in hierarchy \(mother tasks and daughter tasks\) which is the heart of the project design.
 
 2. Ressources  
    After scope already defined, you need any necessary resources to execute these tasks. Also defined who is responsible for which task in PBS.
 
 3. Constrains  
-   In the case of an innovative project, it is alsi hard to identify components, tasks and ressources from the start of the project as the project will consist in progressively identifying them.
+   In the case of an innovative project, it is also hard to identify components, tasks and ressources from the start of the project as the project will consist in progressively identifying them.
 
 4. Risks  
    To deal with unknown, we need **risk management**. In the case of an innovative project, we are facing unpredictable and unkown events. It is very hard to anticipate the occurence and the impact.
@@ -85,7 +85,7 @@ Summary:
 The most of **mistakes** that people make in management don't come from wrong answer to clever questions, but from **right answer to wrong questions**. There are **three fundamental pillars** for your strategic project which are like a tripod on which your project can be stable:
 
 1. Want-to-do \(aspiration of the management team\)  
-   Express the aspirations of the management team. Everyone has their fundamental aspiration, own idea to the project \(tend to be vague\), and maybe does not want to controlled by someone \(for example: Finance person\).  To avoid conflicts, the best thing to do is keep working on design.
+   Express the aspirations of the management team. Everyone has their fundamental aspiration, own idea to the project \(tend to be vague\), and maybe does not want to controlled by someone \(for example: Finance person\). To avoid conflicts, the best thing to do is keep working on design.
 
 2. Know-how \(competence of the team\)  
    This is about technological projects, scienctific and technical skills are the essence of the project. However, a fundamental question will need to be quickly asked: _Will the pictured configuration be implemented without any additional competence missing at the beginning_? Most of time these are business competences and sometimes financial competences
@@ -99,12 +99,12 @@ The most of **mistakes** that people make in management don't come from wrong an
    Decide to enter a particular industry on specific market to keep being **small player** or have **marginal position**.
 
 2. Build its strengths  
-   Identify the key strengths of your project, the characteristic that make it a competitive offer. Look for the points of differentiation shich will make the difference with competitors. Invest on these key strenghts to increase the difference. Identify the project's weakness.
+   Identify the key strengths of your project, the characteristic that make it a competitive offer. Look for the points of differentiation which will make the difference with competitors. Invest on these key strenghts to increase the difference. Identify the project's weakness.
 
 3. Estimate the risk  
    The risks may can not be removed, but can be minimized. Two dimension can be taken into consideration, **Visibility**: _How reliable can change in the environtment be predicted? What is the degree of technological uncertainty? So, do we **see clear enough through space and time**? Can it be easily reoriented by changing the structure?_
 
-It is crucial for the success of the project to closely monitor the evolution of the volume, of the prices and costs. **The growth of a market ususlly follows an S-curve**:
+It is crucial for the success of the project to closely monitor the evolution of the volume, of the prices and costs. **The growth of a market usually follows an S-curve**:
 
 ![](/assets/image113.png)
 
@@ -114,7 +114,7 @@ This curve is observed from most of market's history that can be proof by this S
 
 Lets concentrate to first two phases: **Start** \(birth\) and **Growth**. The growth dynamics depend on two phenomena: _Penetration_ \(the number of costumers\) and _consumption_ \(the consumption of each of them\). So, the market can grow either by increasing the number of costumers using the product, or by increasing their consumption. There are two fundamental questions remain: _How fast will the offer enter the market? And, at what level of penetration will growth slow down?_
 
-Another fundamental phenomenom is **substitution**. Generally, a start-up arrives on the existing market with a more or less innovative offer. So, **it will present a substitue of what already exists**. So, it is important ti understand the obstacles, the reluctances, and to **deeply analyse the decision-making process of the buyers**. Be aware of the psychological obstacles: Habits are hard to change, because the **customer must unlearn a practice that always satisfied him/her and adopt a new technology**.
+Another fundamental phenomenom is **substitution**. Generally, a start-up arrives on the existing market with a more or less innovative offer. So, **it will present a substitue of what already exists**. So, it is important to understand the obstacles, the reluctances, and to **deeply analyse the decision-making process of the buyers**. Be aware of the psychological obstacles: Habits are hard to change, because the **customer must unlearn a practice that always satisfied him/her and adopt a new technology**.
 
 In the case to analyze and learn consumer behaviors that often not homegeneous, we may choose iterative process that leads certains valid data and try to do forescasting. Let's imagine that the **initial plan** is presented by the **blue curve** and that **reality** is represented by the **red curve**.
 
@@ -142,7 +142,7 @@ To answer these question, we can use one of these method:
 And we need to choose one of these strategies:
 
 1. Creation  
-   The innovation can create a new market. It is rare and pretty exceptionnal, for example: Renault Escape which created a new segment in the auto industry, Google who created new digital advertising market.
+   The innovation can create a new market. It is rare and pretty exceptional, for example: Renault Escape which created a new segment in the auto industry, Google who created new digital advertising market.
 
 2. Substitution  
    This is 98% of the cases in terms of innovation. There are references for the requests, a market, and competitors. We have a reference system and we will be placed according to this reference system.
@@ -150,13 +150,13 @@ And we need to choose one of these strategies:
 3. Standard  
    We can choose to introduce new standard or improving existing standard without significantly changing the existing standard. For example: Computer peripheral, communication protocols, etc.
 
-Then a question related to our innovation: _What is the value created by my innovation?_ This is not simpy as financial value, but value create by the costumer. This is what we called **Value in Use Perceived by the Costumer **\(**VUPC**\): It is a compromise between the benefits that the costumer will percieve for your innovation and the sacrifices that the costumer links to your innovation. In the case of creative innovations, we speak in absolute value, and for substitution innovation, in differencial value, benefits, sacrifies perceived by the costumer of my innovation in relation to the reference offer. We can use quantitive analysis to measure VUPC, but it is tend to be subjective.
+Then a question related to our innovation: _What is the value created by my innovation?_ This is not simply as financial value, but value created by the costumers. This is what we called **Value in Use Perceived by the Costumer **\(**VUPC**\): It is a compromise between the benefits that the costumer will percieve for your innovation and the sacrifices that the costumer links to your innovation. In the case of creative innovations, we speak in absolute value, and for substitution innovation, in differencial value, benefits, sacrifies perceived by the costumer of my innovation in relation to the reference offer. We can use quantitive analysis to measure VUPC, but it is tend to be subjective.
 
 ## The challenges of the intellectual property to exploit an innovation
 
 In Europe and in the world, the modern economy is based on the free flow of knowledge, goods and products. The intellectual property is an exception as it is legitimate to reserve a situation which is privileged towards the one who dares to innovate, to create instead of having the work done by someone and take advantage of it. A technical solution to a technical issue, the design right allows you to protect the design of the product, the trademark protects a distinguishing feature, and the copyright protects intellectual works.
 
-The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat. While the **industrial property** is a tool to clarify the relations with third parties, with scientific partners, industrial or business partners. The industrial properties is also often represented as a **weapon** and tool to be able to develop a company project safely, ensuring that everyone's position is repected.
+The intellectual property is a real issue for either the big and small companies. **Copyright** is a right to a property and a right to property is like the ownership of your flat. While the **industrial property** is a tool to clarify the relations with third parties, with scientific partners, industrial or business partners. The industrial properties is also often represented as a **weapon** and tool to be able to develop a company project safely, ensuring that everyone's position is respected.
 
 A project leader must develop two types of skills to correctly use the industrial property:
 
