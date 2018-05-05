@@ -18,9 +18,9 @@ Each stage has an different priority objective:
 2. Incubation stage: To move from a demonstrator to the proof the company can be financially viable. It goes through the formulation of a business plan and ends up with the creation of the company.
 3. Priming stage and consolidation: Company reaches its break-even point before speeding up its development.
 
-
-
 At the beginning of your project, you are going to mainly study the market and the potential uses of your technology. You are the going to reinforce the intellectual property and develop then test the offer corresponding to the priority need you have found. Next you are going to market this offer and improve it gradually to achieve an increasing client. From a financial point of view, this is going to require investments, requirement, rental of office base and various commercial costs, technical and administrative.
+
+![](/assets/needs.png)
 
 
 
