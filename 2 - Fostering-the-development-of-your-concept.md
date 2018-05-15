@@ -7,9 +7,7 @@ This chapter consisted following key points:
 3. Innovative strategies: The typology and value perceived by the costumer.
 4. The challenges of the intellectual property to exploit an innovation.
 
-_Summary_
-
-This session will familiarize you with the principal steps for bringing an innovative project to fruition. Among other things, we will evoke the fundamentals of managing a project and the knowledge acquisition process that enables you to make crucial decisions for the company over time.
+**Summary**: This session will familiarize you with the principal steps for bringing an innovative project to fruition. Among other things, we will evoke the fundamentals of managing a project and the knowledge acquisition process that enables you to make crucial decisions for the company over time.
 
 We will also investigate the principal pillars of your strategic project and suggest some guidelines for the company strategy. You will be asked to understand the dynamics of the market that you are targeting and to identify what it takes to be leader in your segment. Your margin for maneuver will not be the same if your innovation creates a new market versus if it substitutes an existing offer.
 

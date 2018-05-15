@@ -1,3 +1,17 @@
+# How to calculate your financial needs and to find funding
+
+* An overview of your financing needs and financial sources for your innovation.
+* What leads an individual to fund a tech startup?
+* From the wavelet theory to the "Let It Wave" startup: financing the launch.
+* How does a venture capital fund decide to finance a breakthrough technology?
+
+**Summary**: The development of an innovative technology is an exciting adventure that is often like an obstacle course when it comes to finding the first sources of financing. Though new technologies are fascinating, many investors are reluctant to finance them because there are real technical, sales and human risks at stake.
+
+Even so, many sources of financing exist and tech entrepreneurs demonstrate tremendous creativity to successfully move forward from the development stage of a breakthrough technology to the commercialization of an innovative and profitable offer.
+
+This session deals with the financing of the innovation and will show you how to assess your financing needs and how to find the corresponding resources. You will also gain insight into the reasoning of venture capitalists, who sometimes finance companies at a very early stage.
+
+
 ## An overview of your financing needs and financial sources for innovation
 
 There are five phases in logical development path:
@@ -68,3 +82,7 @@ Third, is the impossible mission. It is just any company package, company which 
 
 Entrepreneurship is passion and live serendipity. In other words, take advantage of all contact opprtunities, and let in and choose your Business Angles.
 
+
+## From the wavelet theory to the "Let It Wave" startup: financing the launch
+
+"Let it wave" is startup that offer system solution to increase multimedia data compression. Founded by Mathematic PhD and two Proffessors. "Let it wave" has long run from early 2000 to create system prototype which required billion dollars to initiate the process. Has been once successfully pivot from image compression algorithm into High Definition Video compression algorithm. Sold at 2005, since they can not afford more money to do R&D.
