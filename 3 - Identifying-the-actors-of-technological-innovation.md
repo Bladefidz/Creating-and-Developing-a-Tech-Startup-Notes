@@ -20,7 +20,7 @@ Finally, you will hear about the experiences of two management sciences research
 
 Almost all laboratories who have contracts with industirals are likely to impact on society at short or middle term. But in a passive world when the workforce is not enough or when the university is very proactive in promoting itself, they welcome researchers who came to see them saying, **I have a good idea**, I would like to protect it, I would like to promote it, what needs to be done?
 
-A researcher, nowadays, as well as undertaking his research, and teach, is requested to also finance his laboratory, as well as being involved in various areas. Therefore, their time, in the end, spend on the promoting is weak if we don't give value to it ourselves by explaining how important it is. Or in another word, **pull and an attitude push for this service**. Then, when we detect the technologies which show a sign of potentially being productive, of providing services or promoting the already existing products or markets already existent, we protect then first of all.
+A researcher, nowadays, as well as undertaking his research, and teach, is requested to also finance his laboratory, as well as being involved in various areas. Therefore, their time, in the end, spend on the promoting is weak if we don't give value to it ourselves by explaining how important it is. Or in another word, **pull an attitude and push for this service**. Then, when we detect the technologies which show a sign of potentially being productive, of providing services or promoting the already existing products or markets already existent, we protect then first of all.
 
 One must make sure that we find the perfect technologies, one must make sure that we think of their market, one must make sure that we think of their market, one must make sure to evaluate the market to also answer their requests, these requests which lead to money, which allow to continue then the maturation phase or the maturing of the products in the laboratory.
 
@@ -41,7 +41,7 @@ If we take a small look at what exactly used to be the market, today when we tal
 
 ## Building a team, the key to success for a startup
 
-The first principle is **the young innovative companies are structured around a leader who is never alone because entrepreneurship is definitively a team effort**.![](/assets/timmon model.png)
+The first principle is **the young innovative companies are structured around a leader who is never alone because entrepreneurship is definitively a team effort**.![](/assets/timmon-model.png)
 
 The Timmon's model reminds us, that **it is necessary to look for a balance between the size of the team, the size of the resources, and the opportunity which is the support of the innovative company**. In the case of start-up company, it is seasonal reason when a company with small resources could win the market, for example: Netscape win the Browser war through exploit the opportunity of the dominant of Microsoft's Internet Explorer.
 

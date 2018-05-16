@@ -1,4 +1,4 @@
-# **Fostering the development of your concept**
+# Fostering the development of your concept
 
 This chapter consisted following key points:
 
@@ -108,7 +108,7 @@ It is crucial for the success of the project to closely monitor the evolution of
 
 This curve is observed from most of market's history that can be proof by this Successive S-Curves of Mass-Market Technology Adoption \(Excluding Software\), our goal is to **accelerate the process**:
 
-![](/assets/consumption spreads.gif)
+![](/assets/consumption-spreads.gif)
 
 Lets concentrate to first two phases: **Start** \(birth\) and **Growth**. The growth dynamics depend on two phenomena: _Penetration_ \(the number of costumers\) and _consumption_ \(the consumption of each of them\). So, the market can grow either by increasing the number of costumers using the product, or by increasing their consumption. There are two fundamental questions remain: _How fast will the offer enter the market? And, at what level of penetration will growth slow down?_
 
@@ -148,7 +148,7 @@ And we need to choose one of these strategies:
 3. Standard  
    We can choose to introduce new standard or improving existing standard without significantly changing the existing standard. For example: Computer peripheral, communication protocols, etc.
 
-Then a question related to our innovation: _What is the value created by my innovation?_ This is not simply as financial value, but value created by the costumers. This is what we called **Value in Use Perceived by the Costumer **\(**VUPC**\): It is a compromise between the benefits that the costumer will percieve for your innovation and the sacrifices that the costumer links to your innovation. In the case of creative innovations, we speak in absolute value, and for substitution innovation, in differencial value, benefits, sacrifies perceived by the costumer of my innovation in relation to the reference offer. We can use quantitive analysis to measure VUPC, but it is tend to be subjective.
+Then a question related to our innovation: _What is the value created by my innovation?_ This is not simply as financial value, but value created by the costumers. This is what we called **Value in Use Perceived by the Costumer** (VUPC): It is a compromise between the benefits that the costumer will percieve for your innovation and the sacrifices that the costumer links to your innovation. In the case of creative innovations, we speak in absolute value, and for substitution innovation, in differencial value, benefits, sacrifies perceived by the costumer of my innovation in relation to the reference offer. We can use quantitive analysis to measure VUPC, but it is tend to be subjective.
 
 ## The challenges of the intellectual property to exploit an innovation
 
